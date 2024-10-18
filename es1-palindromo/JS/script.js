@@ -29,9 +29,12 @@ function reversedComparison() {
 
 function isWordPalindrome(userWord) {
   const isPalindrome = reversedComparison(userWord);
+  //SE è palindroma
   if (isPalindrome) {
     alert("La parola che hai inserito è palindroma.");
-  } else {
+  }
+  //ALTRIMENTI
+  else {
     alert("La parola che hai inserito non è palindroma.");
   }
 }
