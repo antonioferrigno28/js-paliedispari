@@ -11,11 +11,9 @@ Dichiariamo chi ha vinto. */
 
 //Funzione per controllare che l'utente abbia scritto "pari" o "dispari"
 
-// Funzione per generare un numero tra 1 e 5
-
 //Funzione per verificare che il numero inserito dall'utente sia compreso tra 1 e 5
 
-// Funzione per verificare se un numero è pari
+// Funzione per generare un numero tra 1 e 5
 
 // Funzione per sommare i due numeri
 
