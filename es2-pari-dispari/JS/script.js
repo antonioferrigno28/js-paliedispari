@@ -9,17 +9,26 @@ Dichiariamo chi ha vinto. */
 
 //FUNZIONI
 
+//Funzione per controllare che l'utente abbia scritto "pari" o "dispari"
+
 // Funzione per generare un numero tra 1 e 5
 
+//Funzione per verificare che il numero inserito dall'utente sia compreso tra 1 e 5
+
 // Funzione per verificare se un numero è pari
+
+// Funzione per sommare i due numeri
+
+// Funzione per determinare se la somma è pari o dispari
 
 // Funzione per mostrare il risultato
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // chiedere all'utente "pari" o "dispari"
+
 // chiedere un numero da 1 a 5 all'utente
+
 // generare un numero per il computer
-// sommare i due numeri
-// determinare se la somma è pari o dispari
+
 // chiamare la funzione per mostrare il risultato
